@@ -1,0 +1,24 @@
+{
+  "name": "graphql-with-sequelize",
+  "version": "1.0.0",
+  "description": "GraphSQL with Sequelize example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lightstaff",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.1.0",
+    "dataloader-sequelize": "^1.7.3",
+    "graphql": "^14.0.2",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.41.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-node": "^8.0.0",
+    "prettier": "^1.14.3"
+  }
+}
