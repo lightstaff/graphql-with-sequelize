@@ -9,7 +9,7 @@
   "author": "Lightstaff",
   "license": "MIT",
   "dependencies": {
-    "apollo-server": "^2.25.3",
+    "apollo-server": "^2.25.4",
     "dataloader-sequelize": "^1.7.3",
     "graphql": "^14.0.2",
     "mysql2": "^1.6.1",
