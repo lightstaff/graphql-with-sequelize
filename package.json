@@ -13,7 +13,7 @@
     "dataloader-sequelize": "^1.7.3",
     "graphql": "^14.0.2",
     "mysql2": "^1.6.1",
-    "sequelize": "^5.15.1"
+    "sequelize": "^6.28.2"
   },
   "devDependencies": {
     "eslint": "^5.8.0",
